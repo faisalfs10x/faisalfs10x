@@ -8,7 +8,7 @@
 <p>
   
 - :boom: Interested in red teaming, ethical hacking and web application hacking. 
-- ⚡ Fun fact: I love coffee but I sleep early
+- ⚡ Fun fact: I love coffee but I sleep early :zzz:
 - 📰 Reading & writing infosec blogs fullest possible.
 
 <h3>My top blog posts :)</h3>
