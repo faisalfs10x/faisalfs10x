@@ -22,6 +22,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://www.kindpng.com/picc/m/206-2064380_burp-suite-icon-png-transparent-png.png" alt="burpsuite"></code>
+<code><img height="27" src="https://pbs.twimg.com/profile_images/661994992878120961/rYruOQvA_400x400.png" alt="kali"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" alt="debian"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox"></code>
@@ -34,4 +35,4 @@
 <p><a href="https://github.com/faisalfs10x" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/faisalfs10x" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://my.linkedin.com/in/faisalfs10xsammio" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
-<!-- forked from https://github.com/thmsgbrt -->
+<!-- author from https://github.com/thmsgbrt -->
