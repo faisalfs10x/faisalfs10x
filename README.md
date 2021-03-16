@@ -6,6 +6,8 @@
 <p>Welcome to my page! </br> I'm Faisal Fs, Cyber Security Analyst 👨🏻‍💻 from <b>Malaysia</b>, focussing on Vulnerability Assessment & Penetration Testing <img src="https://www.flaticon.com/svg/vstatic/svg/2911/2911789.svg?token=exp=1615906430~hmac=d82c9cb084e1888202d62bcaf943113f" width="13"/> </p>
 <!-- <h3>what?</h3> -->
 <p>
+  
+- :boom: Interested in red teaming, ethical hacking and web application hacking. 
 - ⚡ Fun fact: I love coffee but I sleep early
 
 <h3>My top blog posts :)</h3>
