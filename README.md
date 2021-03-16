@@ -24,3 +24,9 @@ Here are some ideas to get you started:
   <li><a href="https://faisalfs10x.github.io/htb/htbMonteverde"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Discovery of azure.xml file & Abusing Azure Admins Group to Leverage Azure AD Connect</b></a><br/><i>abusing Azure Admin to retrieve plain text credential in order to gain Admin shell</i></li>
 
 </ul>
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/faisalfs10x" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/faisalfs10x" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://my.linkedin.com/in/faisalfs10xsammio" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
+<!-- forked from https://github.com/thmsgbrt -->
