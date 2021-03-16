@@ -1,6 +1,6 @@
 ### Hi there 👋, wanna coffee?
 
-- I'm Faisal Fs, Cyber Security Analyst 👨🏻‍💻 from Malaysia 🇲🇾, focussing on Vulnerability Assessment & Penetration Testing <img src="https://www.flaticon.com/svg/vstatic/svg/2911/2911789.svg?token=exp=1615906430~hmac=d82c9cb084e1888202d62bcaf943113f" width="13"/>
+- I'm Faisal Fs, Cyber Security Analyst from Malaysia 🇲🇾, focussing on Vulnerability Assessment & Penetration Testing 👨🏻‍💻
 
 <!-- <h3>what?</h3> -->
 <p>
