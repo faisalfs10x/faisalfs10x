@@ -7,7 +7,7 @@
 <!-- <h3>what?</h3> -->
 <p>
   
-- :boom: Interested in red teaming, ethical hacking and web application hacking. 
+- :trollface: Interested in red teaming, ethical hacking and web application hacking. 
 - ⚡ Fun fact: I love coffee but I sleep early :zzz:
 - 📰 Reading & writing infosec blogs fullest possible.
 
