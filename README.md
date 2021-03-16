@@ -1,9 +1,7 @@
 ### Hi there 👋, wanna coffee?
 
-<!--
-**faisalfs10x/faisalfs10x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<p>Welcome to my page! </br> I'm Faisal Fs, Cyber Security Analyst 👨🏻‍💻 from Malaysia 🇲🇾, focussing on Vulnerability Assessment & Penetration Testing <img src="https://www.flaticon.com/svg/vstatic/svg/2911/2911789.svg?token=exp=1615906430~hmac=d82c9cb084e1888202d62bcaf943113f" width="13"/> </p>
+- I'm Faisal Fs, Cyber Security Analyst 👨🏻‍💻 from Malaysia 🇲🇾, focussing on Vulnerability Assessment & Penetration Testing <img src="https://www.flaticon.com/svg/vstatic/svg/2911/2911789.svg?token=exp=1615906430~hmac=d82c9cb084e1888202d62bcaf943113f" width="13"/>
+
 <!-- <h3>what?</h3> -->
 <p>
   
@@ -15,7 +13,7 @@
 <ul>
   <li><a href="https://faisalfs10x.github.io/thm/AttacktiveDirectory"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Attacking Kerberos with ASREPRoasting & Abusing Backup Operators Group to Extract NTDS.DIT</b></a><br/><i>Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller?</i></li>
   <li><a href="https://faisalfs10x.github.io/htb/htbMonteverde"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Discovery of azure.xml file & Abusing Azure Admins Group to Leverage Azure AD Connect</b></a><br/><i>Abusing Azure Admin to retrieve plain text credential in order to gain admin shell</i></li>
-  <li><a href="https://faisalfs10x.github.io/htb/htbResolute"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Abusing DNS Admin Membership by DLL Injection for PrivEsc in Active Directory</b></a><br/><i>Charge the DLL injection to obtain the admin privilege.</i></li>
+  <li><a href="https://faisalfs10x.github.io/htb/htbResolute"><b>:anger: Abusing DNS Admin Membership by DLL Injection for PrivEsc in Active Directory</b></a><br/><i>Charge the DLL injection to obtain the admin privilege.</i></li>
   <li><a href="https://faisalfs10x.github.io/thm/IoT"><b>:atom: Exploiting CVE-2016-1555 in Netgear WNAP320 Firmware Version 2.0.3 for Remote Command Execution</b></a><br/><i>Internet of things (IoT) pentesting</i></li>
     <li><a href="https://faisalfs10x.github.io/thm/IoT"><b>:bomb: Exploiting MongoDB NoSQL Injection to Username:Password Enumeration & Java jjs SGID to Root Shell</b></a><br/><i>Bruteforce the user’s passwords using NoSQL bypass. To raise root privilege, it was enough for a system equipped with a permissive SUID.</i></li>
 </ul>
