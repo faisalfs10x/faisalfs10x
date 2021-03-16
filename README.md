@@ -4,7 +4,13 @@
 
 <!-- <h3>what?</h3> -->
 <p>
-  
+
+ <ul>
+  <li>:trollface: Interested in red teaming, ethical hacking and web application hacking.</li>
+  <li>📰 Reading & writing infosec blogs fullest possible.</li>
+  <li>⚡ Fun fact: I love coffee but I sleep early :zzz:</li>
+</ul> 
+
 - :trollface: Interested in red teaming, ethical hacking and web application hacking. 
 - 📰 Reading & writing infosec blogs fullest possible.
 - ⚡ Fun fact: I love coffee but I sleep early :zzz:
