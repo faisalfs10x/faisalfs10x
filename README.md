@@ -1,6 +1,6 @@
 ### Hi there 👋, wanna coffee?
 
-- I'm Faisal Fs, Cyber Security Analyst from Malaysia 🇲🇾 focussing on Vulnerability Assessment & Penetration Testing 👨🏻‍💻
+##### I'm Faisal Fs, Cyber Security Analyst from Malaysia 🇲🇾 focussing on Vulnerability Assessment & Penetration Testing 👨🏻‍💻
 
 <!-- <h3>what?</h3> -->
 <p>
@@ -10,10 +10,6 @@
   <li>📰 Reading & writing infosec blogs fullest possible.</li>
   <li>⚡ Fun fact: I love coffee but I sleep early :zzz:</li>
 </ul> 
-
-- :trollface: Interested in red teaming, ethical hacking and web application hacking. 
-- 📰 Reading & writing infosec blogs fullest possible.
-- ⚡ Fun fact: I love coffee but I sleep early :zzz:
 
 <h3>Recent blog posts at <a href="https://faisalfs10x.github.io"> ✨ :)</h3>
 <ul>
