@@ -11,8 +11,8 @@
 <h3>My top blog posts :)</h3>
 <ul>
   <li><a href="https://faisalfs10x.github.io/thm/AttacktiveDirectory"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Attacking Kerberos with ASREPRoasting & Abusing Backup Operators Group to Extract NTDS.DIT</b></a><br/><i>Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller?</i></li>
-  <li><a href="https://faisalfs10x.github.io/htb/htbMonteverde"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Discovery of azure.xml file & Abusing Azure Admins Group to Leverage Azure AD Connect</b></a><br/><i>abusing Azure Admin to retrieve plain text credential in order to gain Admin shell</i></li>
-
+  <li><a href="https://faisalfs10x.github.io/htb/htbMonteverde"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Discovery of azure.xml file & Abusing Azure Admins Group to Leverage Azure AD Connect</b></a><br/><i>Abusing Azure Admin to retrieve plain text credential in order to gain Admin shell</i></li>
+  <li><a href="https://faisalfs10x.github.io/htb/htbResolute"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Abusing DNS Admin Membership by DLL Injection in “dns.exe” for PrivEsc in Active Directory</b></a><br/><i>Charge the DLL injection to obtain the Admin shell.</i></li>
 </ul>
 
 <h3>Where to find me</h3>
