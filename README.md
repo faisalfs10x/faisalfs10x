@@ -6,7 +6,7 @@
 <p>
 
  <ul>
-  <li>:trollface: Interested in red teaming, ethical hacking and web application hacking.</li>
+  <li>:trollface: Interested in red teaming, ethical hacking and web exploitation.</li>
   <li>📰 Reading & writing infosec blogs fullest possible.</li>
   <li>⚡ Fun fact: I love coffee but I sleep early :zzz:</li>
 </ul> 
