@@ -30,10 +30,9 @@
 <code><img height="27" src="https://pbs.twimg.com/profile_images/661994992878120961/rYruOQvA_400x400.png" alt="kali"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" alt="debian"></code>
-<!-- <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox"></code> --> 
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop"></code>
-
+<!-- <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox"></code> -->
 
 
 <h3>Where to find me</h3>
