@@ -11,7 +11,7 @@
   <li>⚡ Fun fact: I love coffee but I sleep early :zzz:</li>
 </ul> 
 
-<h3>Recent blog posts at <a href="https://faisalfs10x.github.io"> ✨ :)</h3>
+<h3>Recent blog posts at <a href="https://faisalfs10x.github.io/"><img src="https://img.shields.io/badge/Blog-brightgreen" alt="Blog"></a></h3>
 <ul>
   <li><a href="https://faisalfs10x.github.io/thm/AttacktiveDirectory"><b> Attacking Kerberos with ASREPRoasting & Abusing Backup Operators Group to Extract NTDS.DIT</b></a><br/><i>Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller?</i></li>
   <li><a href="https://faisalfs10x.github.io/htb/htbMonteverde"><b> Discovery of azure.xml file & Abusing Azure Admins Group to Leverage Azure AD Connect</b></a><br/><i>Abusing Azure Admin to retrieve plain text credential in order to gain admin shell</i></li>
