@@ -6,9 +6,9 @@
 <p>
 
  <ul>
-  <li>:trollface: Interested in red teaming, ethical hacking and web exploitation.</li>
-  <li>📰 Reading & writing infosec blogs.</li>
-  <li>⚡ Fun fact: I love coffee but I sleep early :zzz:</li>
+  <li> Interested in red teaming, ethical hacking and web exploitation.</li>
+  <li> Reading & writing infosec blogs.</li>
+  <li> Fun fact: I love coffee but I sleep early :zzz:</li>
 </ul> 
 
 <h3>Recent blog posts at <a href="https://faisalfs10x.github.io/"><img src="https://img.shields.io/badge/Blog-brightgreen" alt="Blog"></a></h3>
