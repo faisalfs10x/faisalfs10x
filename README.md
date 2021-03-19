@@ -39,8 +39,7 @@
 <a href="https://github.com/faisalfs10x"><img src="https://img.shields.io/github/followers/faisalfs10x.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://twitter.com/faisalfs10x"><img src="https://img.shields.io/twitter/follow/faisalfs10x?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/faisalfs10xsammio"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://faisalfs10x.github.io/"><img src="https://img.shields.io/badge/faisalfs10x.github.io-brightgreen" alt="Blog"></a> 
-<a href="https://dissectingmalwa.re"><img src="https://img.shields.io/badge/Blog-dissectingmalwa.re-brightgreen" alt="Blog"></a>
+<a href="https://faisalfs10x.github.io/"><img src="https://img.shields.io/badge/Blog-faisalfs10x.github.io-brightgreen" alt="Blog"></a> 
 </p>
 
 <!-- author from https://github.com/thmsgbrt -->
