@@ -35,6 +35,7 @@
 <!-- <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox"></code> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalfs10x&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalfs10x&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Where to find me:</h3>
 <p align="center">
