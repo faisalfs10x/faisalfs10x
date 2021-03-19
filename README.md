@@ -39,11 +39,8 @@
 <a href="https://github.com/faisalfs10x"><img src="https://img.shields.io/github/followers/faisalfs10x.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://twitter.com/faisalfs10x"><img src="https://img.shields.io/twitter/follow/faisalfs10x?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/faisalfs10xsammio"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
- <a href="https://faisalfs10x.github.io/"><img src="https://img.shields.io/badge/faisalfs10x.github.io-brightgreen" alt="Blog"></a> 
-</p>
-
-<h3>Where to find me</h3>
-<p><a href="https://github.com/faisalfs10x" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/faisalfs10x" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://my.linkedin.com/in/faisalfs10xsammio" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://faisalfs10x.github.io/"><img src="https://img.shields.io/badge/faisalfs10x.github.io-brightgreen" alt="Blog"></a> 
+<a href="https://dissectingmalwa.re"><img src="https://img.shields.io/badge/Blog-dissectingmalwa.re-brightgreen" alt="Blog"></a>
 </p>
 
 <!-- author from https://github.com/thmsgbrt -->
