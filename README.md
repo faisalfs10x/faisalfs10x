@@ -34,6 +34,8 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop"></code>
 <!-- <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox"></code> -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalfs10x&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Where to find me:</h3>
 <p align="center">
 <a href="https://github.com/faisalfs10x"><img src="https://img.shields.io/github/followers/faisalfs10x.svg?label=GitHub&style=social" alt="GitHub"></a>
