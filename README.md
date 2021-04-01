@@ -34,14 +34,14 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop"></code>
 <!-- <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox"></code> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalfs10x&theme=highcontrast&layout=compact&langs_count=10&hide=js,ruby,mustache,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalfs10x&theme=highcontrast&layout=compact&langs_count=10&hide=javascript,ruby,mustache,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <h3>Where to find me:</h3>
 <p align="center">
-<a href="https://github.com/faisalfs10x"><img src="https://img.shields.io/github/faisalfs10x.svg?label=GitHub&style=social" alt="GitHub"></a>
-<a img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ffaisalfs10x.github.io" alt="Twitter"></a> 
+<a href="https://github.com/faisalfs10x"><img src="https://pngimg.com/uploads/github/github_PNG15.png" alt="GitHub"></a>
+<a href="https://twitter.com/faisalfs10x">img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ffaisalfs10x.github.io" alt="Twitter"></a> 
 <a href="https://www.linkedin.com/in/faisalfs10xsammio"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://faisalfs10x.github.io/"><img src="https://img.shields.io/badge/Blog-faisalfs10x.github.io-brightgreen" alt="Blog"></a> 
 </p>
