@@ -40,7 +40,7 @@
 
 <h3>Where to find me:</h3>
 <p align="center">
-<a href="https://github.com/faisalfs10x"><img src="https://pngimg.com/uploads/github/github_PNG15.png" alt="GitHub"></a>
+<a href="https://github.com/faisalfs10x"><img height="27" src="https://pngimg.com/uploads/github/github_PNG15.png" alt="GitHub"></a>
 <a href="https://twitter.com/faisalfs10x"><img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ffaisalfs10x.github.io" alt="Twitter"></a> 
 <a href="https://www.linkedin.com/in/faisalfs10xsammio"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://faisalfs10x.github.io/"><img src="https://img.shields.io/badge/Blog-faisalfs10x.github.io-brightgreen" alt="Blog"></a> 
