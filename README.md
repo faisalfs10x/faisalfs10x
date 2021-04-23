@@ -6,7 +6,7 @@
 <p>
 
  <ul>
-  <li> Interested in red teaming, ethical hacking and web exploitation.</li>
+  <li> Interested in red teaming, ethical hacking, web exploitation as well as detection of intrusions.</li>
   <li> Reading & writing infosec blogs.</li>
   <li> Fun fact: I love coffee but I sleep early :zzz:</li>
 </ul> 
