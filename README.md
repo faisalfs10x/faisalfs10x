@@ -13,7 +13,8 @@
 
 <h3>Recent blog posts at <a href="https://faisalfs10x.github.io/"><img src="https://img.shields.io/badge/Blog-brightgreen" alt="Blog"></a></h3>
 <ul>
-  <li><a href="https://faisalfs10x.github.io/thm/AttacktiveDirectory"><b> Attacking Kerberos with ASREPRoasting & Abusing Backup Operators Group to Extract NTDS.DIT</b></a><br/><i>Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller?</i></li>
+  <li><a href="https://faisalfs10x.github.io/wsa/blind%20SQL%20injection"><b> Extracting administrator credential via blind SQL injection in cookie header</b></a><br/><i>This post is about blind SQL injection vulnerability in the cookie header that result of retrieving the contents of the table to obtain the username and password of administrator.</i></li>
+ <li><a href="https://faisalfs10x.github.io/thm/AttacktiveDirectory"><b> Attacking Kerberos with ASREPRoasting & Abusing Backup Operators Group to Extract NTDS.DIT</b></a><br/><i>Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller?</i></li>
   <li><a href="https://faisalfs10x.github.io/htb/htbMonteverde"><b> Discovery of azure.xml file & Abusing Azure Admins Group to Leverage Azure AD Connect</b></a><br/><i>Abusing Azure Admin to retrieve plain text credential in order to gain admin shell</i></li>
   <li><a href="https://faisalfs10x.github.io/htb/htbResolute"><b> Abusing DNS Admin Membership by DLL Injection for PrivEsc in Active Directory</b></a><br/><i>Charge the DLL injection to obtain the admin privilege.</i></li>
   <li><a href="https://faisalfs10x.github.io/thm/IoT"><b> Exploiting CVE-2016-1555 in Netgear WNAP320 Firmware Version 2.0.3 for Remote Command Execution</b></a><br/><i>Internet of things (IoT) pentesting</i></li>
