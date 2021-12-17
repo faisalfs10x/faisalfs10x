@@ -13,6 +13,7 @@
 
 <h3>Recent blog posts at <a href="https://faisalfs10x.github.io/"><img src="https://img.shields.io/badge/Blog-brightgreen" alt="Blog"></a></h3>
 <ul>
+ <li><a href="https://faisalfs10x.github.io/linux/persistence"><b> Common Linux Persistence Techniques</b></a><br/><i>This post will cover a few common Linux persistence techniques used by an adversary to establish permanent access.</i></li>
   <li><a href="https://faisalfs10x.github.io/wsa/blind%20SQL%20injection"><b> Extracting administrator credential via blind SQL injection in cookie header</b></a><br/><i>This post is about blind SQL injection vulnerability in the cookie header that result of retrieving the contents of the table to obtain the username and password of administrator.</i></li>
  <li><a href="https://faisalfs10x.github.io/thm/AttacktiveDirectory"><b> Attacking Kerberos with ASREPRoasting & Abusing Backup Operators Group to Extract NTDS.DIT</b></a><br/><i>Corporate networks run off of AD. But can you exploit a vulnerable Domain Controller?</i></li>
   <li><a href="https://faisalfs10x.github.io/htb/htbMonteverde"><b> Discovery of azure.xml file & Abusing Azure Admins Group to Leverage Azure AD Connect</b></a><br/><i>Abusing Azure Admin to retrieve plain text credential in order to gain admin shell</i></li>
