@@ -55,8 +55,8 @@
  
 ### 📈 Statistics
 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=faisalfs10x&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalfs10x&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=faisalfs10x&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalfs10x&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
 <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalfs10x&theme=highcontrast&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss" />
 </div>
 
