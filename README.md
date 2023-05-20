@@ -1,3 +1,12 @@
+<div align="center">
+<h3>Public Profile</h3>
+<p align="center">
+|| <a href="https://www.exploit-db.com/?author=11210"><img height="20" src="https://www.offsec.com/wp-content/uploads/2015/05/edb2.png" alt="Exploit-DB"></a> ||
+<a href="https://packetstormsecurity.com/files/author/15792/"><img height="25" src="https://packetstatic.com/img1514015884/ps_logo.png" alt="Packet Storm"></a> ||
+<a href="https://huntr.dev/users/faisalfs10x/"><img height="27" src="https://pbs.twimg.com/profile_images/1460286419914694668/bzliZBQb_400x400.jpg" alt="Huntr.dev"></a> ||
+</p>
+</div>
+
 ### Hi there 👋, wanna coffee?
 
 #### I'm Faisal Fs, Cyber Security Analyst from Malaysia focusing on Vulnerability Assessment & Penetration Testing 👨🏻‍💻
@@ -6,7 +15,7 @@
 <p>
 
  <ul>
-  <li> Interested in red teaming, ethical hacking, web exploitation as well as detection of intrusions.</li>
+  <li> Interested in red teaming, ethical hacking, web exploitation as well as intrusion detection.</li>
   <li> Reading & writing infosec blogs.</li>
   <li> Fun fact: I love coffee but I sleep early :zzz:</li>
 </ul> 
