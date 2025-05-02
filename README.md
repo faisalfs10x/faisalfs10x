@@ -9,15 +9,14 @@
 
 ### Hi there 👋, wanna coffee?
 
-#### I'm Faisal Fs, Cyber Security Analyst from Malaysia focusing on Vulnerability Assessment & Penetration Testing 👨🏻‍💻
+#### I'm Faisal Fs, versatile Cyber Security Analyst from Malaysia focusing on Offensive Security strategies 👨🏻‍💻
 
 <!-- <h3>what?</h3> -->
 <p>
 
  <ul>
-  <li> Interested in red teaming, ethical hacking, web exploitation as well as intrusion detection.</li>
+  <li> Interested in red teaming, adversary emulation, ethical hacking, web exploitation as well as intrusion detection.</li>
   <li> Reading & writing infosec blogs.</li>
-  <li> Fun fact: I love coffee but I sleep early :zzz:</li>
 </ul> 
 
 <h3>Recent blog posts at <a href="https://faisalfs10x.github.io/"><img src="https://img.shields.io/badge/Blog-brightgreen" alt="Blog"></a></h3>
@@ -64,8 +63,8 @@
  
 ### 📈 Statistics
 
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=faisalfs10x&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalfs10x&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=faisalfs10x&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)"/></br>
+<!--<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalfs10x&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" /></br>-->
 <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalfs10x&theme=highcontrast&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss" />
 </div>
 
