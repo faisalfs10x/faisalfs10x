@@ -61,13 +61,9 @@
 
 <div align="center">
  
-### 📈 Statistics
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalfs10x&show_icons=true&locale=en&layout=compact" alt="faisalfs10x" /></p>
 
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=faisalfs10x&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)"/></br>
-<!--<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalfs10x&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" /></br>-->
-<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalfs10x&theme=highcontrast&layout=compact&langs_count=10&hide=ruby,mustache,html,css,scss" />
-</div>
-
-<!-- author from https://github.com/thmsgbrt --><!--
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalfs10x&show_icons=true&locale=en" alt="faisalfs10x" /></p>
+-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalfs10x&" alt="faisalfs10x" /></p>
